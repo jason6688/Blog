@@ -15,3 +15,11 @@ func (c *AdminController) Main() {
 
 	c.TplName = "admin/main.tpl"
 }
+
+func (c *AdminController) List() {
+
+
+
+	c.TplName = "admin/list.tpl"
+}
+
