@@ -1,3 +1,4 @@
 # Blog
-## Author:史亚运
-Blog Go语言beego框架
+## Author: 史亚运(Jason)
+## Email: 284469828@qq.com
+Blog <Go语言beego框架>
